@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Active matter
-description: a project that redirects to another website
+description: Self Propelling Particels
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
