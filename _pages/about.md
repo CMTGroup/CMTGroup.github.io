@@ -28,6 +28,3 @@ latest_posts:
 ---
 Welcome to Condensed Matter theory Group. The CMTGroup is set in Indian Institute of Technology(Indian School of Mines) Dhanbad. 
 
-
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
