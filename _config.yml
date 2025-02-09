@@ -195,6 +195,11 @@ exclude:
   - _posts/
   - _news/announcement_2.md
   - _news/announcement_3.md
+  - _pages/cv.md
+  - _pages/dropdown.md
+  - _pages/projects.md
+  - _pages/news.md
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
