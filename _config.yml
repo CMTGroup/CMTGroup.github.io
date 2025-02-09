@@ -195,6 +195,7 @@ exclude:
   - _posts/
   - repositori
   - _pages/repsitories.md
+  - _news
 
 keep_files:
   - CNAME
