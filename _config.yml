@@ -200,7 +200,6 @@ exclude:
   - _pages/repositories.md
   - _pages/cv.md
   - _data/cv.yml
-  - _layouts/about.liquid
 keep_files:
   - CNAME
   - .nojekyll
