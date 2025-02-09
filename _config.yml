@@ -193,11 +193,14 @@ exclude:
   - readme_preview/
   - vendor
   - _posts/
-  - repositori
+  - repositories
   - _pages/repsitories.md
   - _news
   - _pages/blog.md
   - _bibliography
+  - _pages/cv.md
+  - _includes/repository/
+  - _pages/dropdown.md
 
 keep_files:
   - CNAME
