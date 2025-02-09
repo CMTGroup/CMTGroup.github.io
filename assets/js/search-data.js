@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "A growing collection of your cool projects.",
+          description: "All our research accumalated in one place",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -55,19 +55,19 @@ ninja.data = [{
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-colloids",
+          title: 'colloids',
+          description: "Speaks about the research done on colloids",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-liquid-crystals",
+          title: 'Liquid Crystals',
+          description: "Speaks about the research on Liquid crystals",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-active-matter",
           title: 'Active matter',
-          description: "a project that redirects to another website",
+          description: "Self Propelling Particels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
