@@ -193,7 +193,6 @@ exclude:
   - readme_preview/
   - vendor
   - _posts/
-  - repositories
   - _pages/repsitories.md
   - _news
   - _pages/blog.md
