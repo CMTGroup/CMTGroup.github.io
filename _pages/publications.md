@@ -6,4 +6,14 @@ description: coming soon.
 nav_order: 2
 ---
 
-Coming soon
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
