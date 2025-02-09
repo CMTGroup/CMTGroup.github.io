@@ -171,7 +171,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts", "_pages/about.md"]
+include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -193,14 +193,7 @@ exclude:
   - readme_preview/
   - vendor
   - _posts/
-  - _pages/repsitories.md
-  - _news
-  - _pages/blog.md
-  - _bibliography
-  - _pages/cv.md
-  - _includes/repository/
-  - _pages/dropdown.md
-
+  
 keep_files:
   - CNAME
   - .nojekyll
