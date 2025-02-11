@@ -2,7 +2,7 @@
 layout: page
 title: Liquid Crystals
 description: Speaks about the research on Liquid crystals
-img: assets/img/3.jpg
+img: assets/img/nematics.png
 importance: 2
 category: work
 giscus_comments: true

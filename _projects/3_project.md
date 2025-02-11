@@ -2,7 +2,7 @@
 layout: page
 title: Active matter
 description: Self Propelling Particles
-img: assets/img/7.jpg
+img: assets/img/active.png
 redirect: https://unsplash.com
 importance: 3
 category: work
