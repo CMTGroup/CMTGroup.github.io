@@ -2,7 +2,7 @@
 layout: page
 title: Colloids
 description: Speaks about the research done on colloids
-img: assets/img/colloids.png
+img: assets/img/colloids_2.png
 importance: 1
 category: work
 related_publications: true
