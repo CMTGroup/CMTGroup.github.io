@@ -1,6 +1,6 @@
 ---
 layout: page
-title: colloids
+title: Colloids
 description: Speaks about the research done on colloids
 img: assets/img/12.jpg
 importance: 1
