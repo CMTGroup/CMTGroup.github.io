@@ -56,7 +56,7 @@ ninja.data = [{
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "projects-colloids",
-          title: 'colloids',
+          title: 'Colloids',
           description: "Speaks about the research done on colloids",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -67,7 +67,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-active-matter",
           title: 'Active matter',
-          description: "Self Propelling Particels",
+          description: "Self Propelling Particles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
