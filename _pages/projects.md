@@ -5,7 +5,7 @@ permalink: /projects/
 description: All our research accumalated in one place 
 nav: true
 nav_order: 3
-display_categories: [Work]
+display_categories: [work]
 horizontal: false
 ---
 
